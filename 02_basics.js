@@ -5,4 +5,6 @@
  let x; // undefined //
  let z = true; // boolaen //
 
+let i = 0.1;
+
 
