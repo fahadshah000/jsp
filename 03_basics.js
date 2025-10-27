@@ -1,3 +1,5 @@
-console.log("objects");
-console.log("class");
-console.log("fahad");
+let i ;
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+    
+}
