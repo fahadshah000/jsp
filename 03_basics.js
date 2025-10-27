@@ -4,3 +4,4 @@ for (let i = 0; i < 10; i++) {
     
 }
 console.log("fahad")
+console.log("shah")
