@@ -1,8 +1,9 @@
 let i ;
-for (let i = 0; i < 10; i++) {
-    console.log(i);
-    
+for (let i = 0; i <= 10; i++) {
+    console.log(i);   
 }
-console.log("fahad")
-console.log("shah")
-console.log("added")
+let b;
+for (let b= 1 ;  b <= 10 ; b++) {
+    
+     console.log(b * 2);
+}
