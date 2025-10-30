@@ -9,4 +9,5 @@ for (let b= 1 ;  b <= 10 ; b++) {
 }
 
 console.log("added");
-console.log("practise")
+console.log("practise");
+console.log("session");
