@@ -8,5 +8,4 @@ for (let b= 1 ;  b <= 10 ; b++) {
      console.log(b * 2);
 }
 
-console.log("fahad");
-console.log("shah");
+console.log("added");
